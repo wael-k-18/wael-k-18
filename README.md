@@ -2,19 +2,27 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00e6b8&height=190&section=header&text=Hi,%20I'm%20Wael&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=AI-ML%20Developer%20-%20Computer%20Vision%20-%20Full-Stack&descAlignY=68&descSize=16" width="100%" alt="header" />
 
+<h1>
+  Hi, I'm Wael
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN256Z2J5ZG9kdXdsb2phcjRjdG1xeG5objlsZHNxdWZheWowN3B0YiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3oKIPqF3YT4E45pE9G/giphy.gif" width="55px" align="center" />
+</h1>
+
+**AI-ML Developer · Computer Vision · Full-Stack**
+
 **B.Tech CSE (AI & ML) student building computer vision & full-stack applications — with a background in digital-media leadership.**
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00e6b8&center=true&vCenter=true&width=650&lines=AI%2FML%20Developer%20%7C%20Computer%20Vision%20Enthusiast;Building%20intelligent%2C%20full-stack%20applications;B.Tech%20CSE%20%28AI%20%26%20ML%29%20%40%20Bharati%20Vidyapeeth" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wael-k18)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/waelfdv)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waelkarbelkar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/wael-k18)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/waelfdv)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:waelkarbelkar@gmail.com)
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,js,nodejs,react,firebase,git,mysql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,js,nodejs,react,firebase,git,mysql\&theme=dark)](https://skillicons.dev)
 
 </div>
+
 
 <br>
 
