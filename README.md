@@ -5,9 +5,7 @@
 **B.Tech CSE (AI & ML) student building computer vision & full-stack applications — with a background in digital-media leadership.**
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00e6b8&center=true&vCenter=true&width=650&lines=AI%2FML%20Developer%20%7C%20Computer%20Vision%20Enthusiast;Building%20intelligent%2C%20full-stack%20applications;B.Tech%20CSE%20%28AI%20%26%20ML%29%20%40%20Bharati%20Vidyapeeth" alt="Typing SVG" />
-<td align="center" style="background: transparent; border: none; vertical-align: middle; padding-left: 20px;">
-      <img src="YOUR_GIF_URL_HERE" width="100px" alt="Neymar GIF" style="background: transparent;" />
-    </td>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wael-k18)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/waelfdv)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waelkarbelkar@gmail.com)
