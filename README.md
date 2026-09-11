@@ -90,23 +90,52 @@
 │ instagram   : instagram.com/waelfdv                                          │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
-
 <br>
 
 <div align="center">
 
 ### 📊 GitHub Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=wael-k-18&show_icons=true&count_private=true&bg_color=0d1117&title_color=00e6b8&icon_color=00e6b8&text_color=c9d1d9&hide_border=true" alt="wael-k-18's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wael-k-18&layout=compact&bg_color=0d1117&title_color=00e6b8&icon_color=00e6b8&text_color=c9d1d9&hide_border=true" alt="Top Languages" />
+<table>
+<tr>
+<td>
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=wael-k-18&show_icons=true&theme=transparent&hide_border=true&title_color=00e6b8&icon_color=00e6b8&text_color=c9d1d9&bg_color=0d1117"
+  alt="Wael's GitHub Stats"
+/>
+</td>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wael-k-18&background=0d1117&ring=00e6b8&fire=00e6b8&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=00e6b8&sideLabels=c9d1d9&dates=8b949e&border=00e6b8" alt="GitHub Streak" />
+<td>
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wael-k-18&layout=compact&theme=transparent&hide_border=true&title_color=00e6b8&text_color=c9d1d9&bg_color=0d1117"
+  alt="Top Languages"
+/>
+</td>
+</tr>
+</table>
+
+<br>
+
+<img 
+  src="https://streak-stats.demolab.com/?user=wael-k-18&theme=dark&hide_border=true&background=0D1117&ring=00E6B8&fire=00E6B8&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=00E6B8&sideLabels=C9D1D9&dates=8B949E"
+  alt="GitHub Streak"
+/>
+
+<br><br>
 
 ### 🏆 Trophy Case
 
-<img src="https://github-profile-trophy.vercel.app/?username=wael-k-18&theme=matrix&no-frame=true&row=1&column=6&margin-w=8" alt="trophies" />
+<img 
+  src="https://github-profile-trophy.vercel.app/?username=wael-k-18&theme=matrix&no-frame=true&no-bg=true&row=1&column=6"
+  alt="GitHub Trophies"
+/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=wael-k-18&color=00e6b8&style=flat-square&label=Profile+Views)
+<br><br>
+
+<img 
+  src="https://komarev.com/ghpvc/?username=wael-k-18&color=00e6b8&style=flat-square&label=Profile+Views"
+  alt="Profile Views"
+/>
 
 </div>
 
