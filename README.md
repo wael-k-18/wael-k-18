@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00e6b8&height=190&section=header&text=Hi,%20I'm%20Wael&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=AI-ML%20Developer%20-%20Computer%20Vision%20-%20Full-Stack&descAlignY=68&descSize=16" width="100%" alt="header" />
+
 
 <h1>
   Hi, I'm Wael
