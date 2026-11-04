@@ -96,24 +96,6 @@
 
 ### 📊 GitHub Stats
 
-<table>
-<tr>
-<td>
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=wael-k-18&show_icons=true&theme=transparent&hide_border=true&title_color=00e6b8&icon_color=00e6b8&text_color=c9d1d9&bg_color=0d1117"
-  alt="Wael's GitHub Stats"
-/>
-</td>
-
-<td>
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wael-k-18&layout=compact&theme=transparent&hide_border=true&title_color=00e6b8&text_color=c9d1d9&bg_color=0d1117"
-  alt="Top Languages"
-/>
-</td>
-</tr>
-</table>
-
 <br>
 
 <img 
@@ -122,13 +104,6 @@
 />
 
 <br><br>
-
-### 🏆 Trophy Case
-
-<img 
-  src="https://github-profile-trophy.vercel.app/?username=wael-k-18&theme=matrix&no-frame=true&no-bg=true&row=1&column=6"
-  alt="GitHub Trophies"
-/>
 
 <br><br>
 
